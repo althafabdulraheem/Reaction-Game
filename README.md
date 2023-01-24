@@ -1,5 +1,5 @@
-# reaction-timer
-
+# reaction-game
+ <strong>simple reaction game using Vue js</strong>
 ## Project setup
 ```
 npm install
